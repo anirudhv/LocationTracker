@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Location Tracker</string>
+    <string name="type">Satellite</string>
+    <string name="content_desc">Current Location</string>
+    <string name="start">Start\nTracking</string>
+    <string name="stop">Stop Tracking</string>
+    <string name="north">N</string>
+    <string name="south">S</string>
+    <string name="east">E</string>
+    <string name="west">W</string>
+    <string name="northeast">NE</string>
+    <string name="northwest">NW</string>
+    <string name="southeast">SE</string>
+    <string name="southwest">SW</string>
+    <string name="northnortheast">NNE</string>
+    <string name="eastnortheast">ENE</string>
+    <string name="westnorthwest">WNW</string>
+    <string name="westsouthwest">WSW</string>
+    <string name="southsoutheast">SSE</string>
+    <string name="eastsoutheast">ESE</string>
+    <string name="southsouthwest">SSE</string>
+    <string name="northnorthwest">NNW</string>
+    <string name="started">Tracking started!</string>
+    <string name="stopped">Tracking stopped!</string>
+    <string name="tracking">Tracking in progress</string>
+    <string name="view_track">View GPS Logs</string>
+    <string name="info">Now viewing GPS logs.</string>
+    <string name="info2">No longer viewing GPS logs.</string>
+    <string name="enable">Scroll/Zoom</string>
+    <string name="reload">Reload Application</string>
+    <string name="close">Please enable all permissions to use the Location Tracker.\n You can do this in your device settings if you are unable to do it after reloading the application.\n Email questions and concerns to\n anirudhv@purdue.edu.</string>
+</resources>
